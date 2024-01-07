@@ -22,6 +22,9 @@
   border-radius: 5px;
   width: 100%;
   padding: 10px;
+  box-shadow: 5px 5px 5px 1px rgba(120,120,120,0.44);
+  -webkit-box-shadow: 5px 5px 5px 1px rgba(120,120,120,0.44);
+  -moz-box-shadow: 5px 5px 5px 1px rgba(120,120,120,0.44);
 }
 
 a {
